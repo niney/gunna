@@ -1,0 +1,28 @@
+Thumbs.db
+
+# Eclipse
+.project
+.metadata
+bin/**
+.classpath
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Gradle
+build/
+classes/
+
+# Grails
+logs/
